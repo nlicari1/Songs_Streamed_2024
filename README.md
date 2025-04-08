@@ -29,6 +29,21 @@ All insights are tailored to inform content strategy, marketing initiatives, and
 - Bar charts for top 10 songs and artists.
 - Monthly streaming trend over the last 5 years.
 
+ **Insight:**
+Spotify's top streamed songs over the last five years are driven by high-profile artists in pop, Latin, and rap genres. Notably, artist visibility is amplified through playlist placements and seasonal patterns - with streaming spikes during summer and holidays.
+
+ ### Top 10 Most Streamed Songs
+![Top Songs](images/top_10_songs.png)
+
+
+### Top Artists by Total Streams
+![Top Artists](images/top_artists.png)
+
+
+### Seasonality Trends (Last 5 Years)
+![Seasonality Trends](images/seasonal_trends.png)
+
+
 ### 2. Cross-Platform Streaming Comparison
 
 **Key Questions:**
@@ -40,6 +55,12 @@ All insights are tailored to inform content strategy, marketing initiatives, and
 - Spotify vs YouTube scatter plot
 - Total stream comparison by platform
 - Correlation metrics
+
+**Insight:**
+
+### Spotify vs. YouTube Streams
+![Spotify vs YouTube](images/spotify_vs_youtube.png)
+
 
 ### 3. The Impact of Playlsit on Song Popularity
 
@@ -64,6 +85,11 @@ All insights are tailored to inform content strategy, marketing initiatives, and
 - Pie chart of total streams by platform 
 - Top 10 most streamed artists across all platforms
 
+**Insight:**
+
+
+![Platform Share](images/platform_share_piechart.png)
+
 ### 5. TikTok Virality vs. Spotify Streams
 
 **Key Questions:** 
@@ -83,6 +109,10 @@ All insights are tailored to inform content strategy, marketing initiatives, and
 - Data sources from Kaggle: [Most Streamed Spotify Songs 2024]
 
 --- 
+
+## Business Insights
+- **Playlist Reach Has a Strong Impact:**
+Songs addefd to more playlists had a 0.63 correlation with higher spotify 
 
 ## Conclusion 
 
