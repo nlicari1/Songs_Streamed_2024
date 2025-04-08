@@ -87,7 +87,7 @@ Spotify's top streamed songs over the last five years are driven by high-profile
 
 **Insight:**
 
-
+### Platform Share of Total Streams
 ![Platform Share](images/platform_share_piechart.png)
 
 ### 5. TikTok Virality vs. Spotify Streams
