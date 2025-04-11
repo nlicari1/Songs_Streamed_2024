@@ -57,6 +57,7 @@ Spotify's top streamed songs over the last five years are driven by high-profile
 - Correlation metrics
 
 **Insight:**
+The correlation between Spotify streams and YouTube views is 0.26, indicating a **weak positive relationship.** This suggests that while some songs perfomr well on both platforms, high performance on YouTube doesn't strongly predict success on Spotify. This could reflect differences in audience behavior and platform usage -- for example, YouTube may favor music videos and visual content, whereas Spotify usage may reflect more habitual or passive listening.
 
 ### Spotify vs. YouTube Streams
 ![Spotify vs YouTube](images/spotify_vs_youtube.png)
@@ -86,6 +87,8 @@ Spotify's top streamed songs over the last five years are driven by high-profile
 - Top 10 most streamed artists across all platforms
 
 **Insight:**
+Spotify leads in total streams across platforms, but YouTube and TikTok still account for a substantial share of engagement. TikTok, despite having fewer total views, likely serves as a discovery platform that indirectly influences Spotify streams. This distribution suggests that while Spotify holds the largest listening base, strategic partnerships and promotion on TikTok and YouTube could enhance artist visibility and drive cross-platform growth.
+
 
 ### Platform Share of Total Streams
 ![Platform Share](images/platform_share_piechart.png)
