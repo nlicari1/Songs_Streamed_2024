@@ -2,7 +2,7 @@
 
 ## Executive Summary
 This report provides a comprehensive analysis of Spotify streaming data from the past five years, with a focus on uncovering trends that can support strategic decision-making. Key areas of analysis include top-performing content, seasonal behaviors, cross-platform performance, playlist impact, and TikTok influence.
-All insights are tailored to inform content strategy, marketing initiatives, and partnership opportunities for Spotify's, continued platform growth.
+All insights are tailored to inform content strategy, marketing initiatives, and partnership opportunities for Spotify's continued platform growth.
 
 ---
 
@@ -10,7 +10,7 @@ All insights are tailored to inform content strategy, marketing initiatives, and
 
 - Identify top-performing songs, artists, and genres.
 - Explore seasonal streaming trends.
-- Compare Spotify peformance to competitors like YouTube and TikTok.
+- Compare Spotify performance to competitors like YouTube and TikTok.
 - Evaluate the impact of playlists on track popularity.
 - Understand how viral content on TikTok translates into Spotify engagement.
 
@@ -30,7 +30,7 @@ All insights are tailored to inform content strategy, marketing initiatives, and
 - Monthly streaming trend over the last 5 years.
 
  **Insight:**
-Spotify's top streamed songs over the last five years are driven by high-profile artists in pop, Latin, and rap genres. Notably, artist visibility is amplified through playlist placements and seasonal patterns - with streaming spikes during summer and holidays.
+Spotify's top-treamed songs over the last five years are driven by high-profile artists in pop, Latin, and rap genres. Notably, artist visibility is amplified through playlist placements and seasonal patterns —— with streaming spikes during summer and holidays.
 
  ### Top 10 Most Streamed Songs
 ![Top Songs](images/top_10_songs.png)
@@ -57,7 +57,7 @@ Spotify's top streamed songs over the last five years are driven by high-profile
 - Correlation metrics
 
 **Insight:**
-The correlation between Spotify streams and YouTube views is 0.26, indicating a **weak positive relationship.** This suggests that while some songs perfomr well on both platforms, high performance on YouTube doesn't strongly predict success on Spotify. This could reflect differences in audience behavior and platform usage -- for example, YouTube may favor music videos and visual content, whereas Spotify usage may reflect more habitual or passive listening.
+The correlation between Spotify streams and YouTube views is 0.26, indicating a **weak positive relationship.** This suggests that while some songs perfomr well on both platforms, high performance on YouTube doesn't strongly predict success on Spotify. This could reflect differences in audience behavior and platform usage —— for example, YouTube may favor music videos and visual content, whereas Spotify usage may reflect more habitual or passive listening.
 
 ### Spotify vs. YouTube Streams
 ![Spotify vs YouTube](images/spotify_vs_youtube.png)
