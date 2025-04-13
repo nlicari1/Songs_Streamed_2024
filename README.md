@@ -2,7 +2,7 @@
 
 ## Executive Summary
 This report provides a comprehensive analysis of Spotify streaming data from the past five years, with a focus on uncovering trends that can support strategic decision-making. Key areas of analysis include top-performing content, seasonal behaviors, cross-platform performance, playlist impact, and TikTok influence.
-All insights are tailored to inform content strategy, marketing initiatives, and partnership opportunities for Spotify's continued platform growth.
+All insights are tailored to inform content strategy, marketing initiatives, and partnership opportunities to support Spotify's continued platform growth.
 
 ---
 
@@ -10,7 +10,7 @@ All insights are tailored to inform content strategy, marketing initiatives, and
 
 - Identify top-performing songs, artists, and genres.
 - Explore seasonal streaming trends.
-- Compare Spotify performance to competitors like YouTube and TikTok.
+- Compare Spotify's performance to competitors like YouTube and TikTok.
 - Evaluate the impact of playlists on track popularity.
 - Understand how viral content on TikTok translates into Spotify engagement.
 
@@ -23,14 +23,14 @@ All insights are tailored to inform content strategy, marketing initiatives, and
 ***Key Questions:***
 - Which songs and artists dominate in Spotify streams?
 - Are certain genres or artists consistently popular?
-- Do we observe seasonal trends in stream volume?
+- Do we observe seasonal trends in stream volume?   
 
 📊 *Visuals:*
 - Bar charts for top 10 songs and artists.
 - Monthly streaming trend over the last 5 years.
 
  **Insight:**
-Spotify's top-treamed songs over the last five years are driven by high-profile artists in pop, Latin, and rap genres. Notably, artist visibility is amplified through playlist placements and seasonal patterns —— with streaming spikes during summer and holidays.
+Spotify's top-treamed songs over the last five years are driven by high-profile artists in pop, Latin, and rap genres. Notably, artist visibility is amplified through Spotify playlist placements and seasonal patterns —— with streaming spikes during summer and holidays.
 
  ### Top 10 Most Streamed Songs
 ![Top Songs](images/top_10_songs.png)
